@@ -637,19 +637,19 @@ They use the 3W1H framework:
 
 * **What** is being computed?
 
-<img src='images/what.png' width=500>
+<img src='images/what.PNG' width=500>
 
 * **Where** in event time is the transform?
 
-<img src='images/where.png' width=500>
+<img src='images/where.PNG' width=500>
 
 * **When** will the transform be executed?
 
-<img src='images/when.png' width=500>
+<img src='images/when.PNG' width=500>
 
 * **How** do refinements relate?
 
-<img src='images/how.png' width=500>
+<img src='images/how.PNG' width=500>
 
 #### Sources and Sinks
 

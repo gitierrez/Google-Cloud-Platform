@@ -5,6 +5,12 @@ https://console.cloud.google.com
 
 <img src='images/gcp.png' width="400">
 
+### References
+
+https://www.udemy.com/gcp-data-engineer-and-cloud-architect/
+
+---
+
 ### Billing Considerations
 
 * Delete projects, instances and free up resources when you don't need them anymore. Resources like BigTable and Cloud Spanner are pretty expensive.
